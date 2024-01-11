@@ -6,3 +6,8 @@
 html, body{
   background: #ffecb3;
 }
+
+.imagen {
+  width: 400px;
+  height: 500px;
+}
